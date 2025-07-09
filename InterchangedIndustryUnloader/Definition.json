@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "id": "NS15.InterchangedIndustryUnloader",
+  "name": "InterchangedIndustryUnloader",
+  "version": "$(AssemblyVersion)",
+  "assemblies": [ "InterchangedIndustryUnloader" ]
+}

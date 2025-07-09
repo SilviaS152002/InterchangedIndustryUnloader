@@ -1,0 +1,10 @@
+I:\SteamLibrary\steamapps\common\Railroader\Mods\ExampleMod\Definition.json
+I:\SteamLibrary\steamapps\common\Railroader\Mods\ExampleMod\ExampleMod.dll
+I:\SteamLibrary\steamapps\common\Railroader\Mods\ExampleMod\ExampleMod.pdb
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.AssemblyInfoInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.AssemblyInfo.cs
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.dll
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Debug\ExampleMod.pdb
