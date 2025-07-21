@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHAy+0TYBh0=",
+  "success": true,
+  "projectFilePath": "I:\\SteamLibrary\\steamapps\\common\\Railroader\\dll_modding\\Railloader.ExampleMod-master\\InterchangedIndustryUnloader\\InterchangedIndustryUnloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\butr.harmony.analyzer\\1.0.1.50\\butr.harmony.analyzer.1.0.1.50.nupkg.sha512"
+  ],
+  "logs": []
+}
