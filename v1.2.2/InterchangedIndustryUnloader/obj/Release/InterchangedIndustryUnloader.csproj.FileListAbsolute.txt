@@ -1,0 +1,16 @@
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\bin\Release\Definition.json
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\bin\Release\InterchangedIndustryUnloader.dll
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.GeneratedMSBuildEditorConfig.editorconfig
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.AssemblyInfoInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.AssemblyInfo.cs
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dll_modding\Railloader.ExampleMod-master\ExampleMod\obj\Release\InterchangedIndustryUnloader.dll
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\bin\Release\Definition.json
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\bin\Release\InterchangedIndustryUnloader.dll
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.GeneratedMSBuildEditorConfig.editorconfig
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.AssemblyInfoInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.AssemblyInfo.cs
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\InterchangedIndustryUnloader-main\InterchangedIndustryUnloader\obj\Release\InterchangedIndustryUnloader.dll
