@@ -1,7 +1,0 @@
-{
-  "manifestVersion": 1,
-  "id": "NS15.InterchangedIndustryUnloader",
-  "name": "InterchangedIndustryUnloader",
-  "version": "1.0.25190.914",
-  "assemblies": [ "InterchangedIndustryUnloader" ]
-}
